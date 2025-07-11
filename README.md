@@ -1,6 +1,6 @@
 Wedding Seating Optimization Project 
 
-Group R
+Project members:
 - Gaspar Pereira, 20230984
 - Maria Cruz, 20230760
 - Ricardo Pereira, 20240745
