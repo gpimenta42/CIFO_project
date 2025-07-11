@@ -6,6 +6,4 @@ Group R
 - Ricardo Pereira, 20240745
 - Rita Wang, 20240551
 
-NOVA IMS
-Computer Intelligence for Optimization
-2024-2025 
+<img width="1024" height="581" alt="image" src="https://github.com/user-attachments/assets/ea7ce399-8c1f-43c7-af6c-9acf23e48ca0" />
